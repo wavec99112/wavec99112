@@ -6,7 +6,9 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.png">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D00C5,100:07F979&height=3&section=header" width="100%"/>
+</div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> 赛博朋克开发者简介
 
@@ -61,7 +63,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wavec99112&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cyber.png">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D00C5,100:07F979&height=3&section=footer" width="100%"/>
+</div>
 
 <div align="center">
   
